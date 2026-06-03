@@ -1,9 +1,10 @@
-let user(){
-    username: "vineet"
-    ageuser:56
+const user = {
+    username: "hitesh",
+    price: 999,
 
-    userwebsite: function (){
-        console.log('${this.username},welsome to website')
-
+    welcomeMessage: function() {
+        console.log(`${this.username} , welcome to website`);
+        console.log(this);
     }
+
 }
