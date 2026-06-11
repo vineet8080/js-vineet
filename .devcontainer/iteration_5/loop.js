@@ -80,6 +80,9 @@ while (arr < myArray.length) {
 
 let score = 11
 
+
+// do while
+
 do {
     console.log(`Score is ${score}`);
     score++
