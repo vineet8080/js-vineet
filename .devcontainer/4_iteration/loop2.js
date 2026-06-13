@@ -85,3 +85,5 @@ myCoding.forEach( (item) => {
     
     console.log(item.languageName);
 } )
+
+///30 baki h
